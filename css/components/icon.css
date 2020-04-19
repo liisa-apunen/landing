@@ -13,6 +13,7 @@
 
 .inline {
 	display: inline;
+	align-items: center;
 }
 
 .icon:hover {
