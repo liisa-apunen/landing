@@ -2,9 +2,10 @@
 /* Social media icon design */
 
 .icon {
-	font-size: 50px;
-	padding-left: 20px;
+	font-size: 60px;
+	padding-right: 20px;
 	color: #ffac41;
+	padding-bottom: 30px;
 }
 
 .liststyle-none {
@@ -13,9 +14,12 @@
 
 .inline {
 	display: inline;
-	align-items: center;
 }
 
 .icon:hover {
 	color: black;
+}
+
+.btn-icon {
+	margin-left: 25px;
 }
