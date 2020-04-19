@@ -1,0 +1,19 @@
+
+/* Social media icon design */
+
+.icon {
+	font-size: 40px;
+	padding: 0px 10px;
+}
+
+.liststyle-none {
+	list-style-type: none;
+}
+
+.inline {
+	display: inline;
+}
+
+.icon:hover {
+	color: #ffac41;
+}
