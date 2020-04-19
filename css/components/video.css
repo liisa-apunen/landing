@@ -14,7 +14,8 @@
 }
 
 .left-video video {
-  width: 100%;
+  	width: 100%;
+	align-items: center;
 }
 
 .left-video p {
