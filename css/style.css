@@ -1,0 +1,38 @@
+
+/* Imported elements */
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Sarabun:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i&display=swap');
+@import url("components/about.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/center.css");
+@import url("components/container.css");
+@import url("components/footer.css");
+@import url("components/navigation.css");
+@import url("components/typeform.css");
+@import url("components/video.css");
+
+
+/* Main default design */
+
+body {
+	font-family: 'Sarabun', sans-serif;
+	font size: 18px;
+	margin: 0px;
+	color: #323232;
+}
+
+h1, h2, h3{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 500;
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+a {
+	text-decoration: none;
+}

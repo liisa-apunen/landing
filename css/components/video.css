@@ -1,0 +1,61 @@
+
+.video-text {
+	padding: 0px 50px 0px 50px;
+}
+
+
+/* Videos on the left and its text on the side */
+
+.left-video {
+	display: flex;
+	background-color: black;
+	color: white;
+}
+
+.left-video video {
+  width: 100%;
+}
+
+.left-video p {
+	text-align: left;
+	font-size: 20px;
+	font-weight: 200;
+	padding-bottom: 30px;
+}
+
+.left-video h2 {
+	text-align: left;
+	font-size: 30px;
+	color: #ffac41;
+	margin-top: 70px;
+}
+
+
+/* Videos on the right and its text on the side */
+
+.right-video {
+	display: flex;
+	align-items: center;
+	background-color: black;
+	color: white;
+}
+.right-video video {
+  width: 100%;
+}
+
+.right-video p {
+	text-align: right;
+	font-size: 20px;
+	font-weight: 200;
+	padding-bottom: 30px;
+}
+
+.right-video h2 {
+	text-align: right;
+	font-size: 30px;
+	color: #ffac41;
+}
+
+#align-right {
+	float: right;
+}

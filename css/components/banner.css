@@ -1,0 +1,90 @@
+
+/* Home page top banner */
+
+.banner {
+	background-image: url(../../images/top-banner.jpeg);
+	padding: 150px 0px;
+	color: white;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 70px;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: 300;
+	margin-bottom: 100px;
+}
+
+
+/* Fixed background image for "Home" */
+
+.background-home {
+	background-image: url(../../images/background.jpeg);
+	padding: 200px 0px;
+	color: white;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.6);
+}
+
+
+/* Fixed black and white background image for "About" and "Contact us" */
+
+.background-bw {
+	background-image: url(../../images/background-bw.jpeg);
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+
+/* Black banners */
+
+.black-banner {
+	background-color: black;
+	color: white;
+	padding: 20px;
+	padding-bottom: 60px;
+	text-align: center;
+}
+
+.black-banner h1 {
+	font-size: 40px;
+	font-family: 'Poppins', sans-serif;
+	padding: 20px;
+}
+
+.black-banner p {
+	font-size: 20px;
+	padding-bottom: 35px;
+	font-family: 'Poppins', sans-serif;
+}
+
+
+/* White banners */
+
+.white-banner {
+	background-color: white;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+
+.white-banner h1 {
+	font-size: 40px;
+	font-family: 'Poppins', sans-serif;
+	color: #323232;
+	padding: 20px;
+}
+
+#contact-banner {
+	padding-bottom: 60px;
+}

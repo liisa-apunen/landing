@@ -1,0 +1,48 @@
+
+/* Orange button with white hover color */
+
+.btn-orange {
+	background-color: #ffac41;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: 500;
+	font-family: 'Poppins', sans-serif;
+}
+
+.btn-orange:hover {
+	background-color: white;
+	color: #ffac41;
+}
+
+
+/* Orange button with black hover color */
+
+.btn-orange-black {
+	background-color: #ffac41;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: 500;
+	font-family: 'Poppins', sans-serif;
+}
+
+.btn-orange-black:hover {
+	background-color: black;
+	color: white;
+}
+
+
+/* Extra design for return button on "Contact us" page" */
+
+#btn-return {
+	font-size: 16px;
+	text-align: center;
+	float: center;
+	margin-top: 900px;
+}
+
+.btn-margin {
+	margin: 0px 50px 0px 50px;
+	margin-bottom: 40px;
+}

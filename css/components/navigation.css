@@ -1,0 +1,39 @@
+
+/* Design for navigation bar on top */
+
+.navigation ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  float: right;
+}
+
+.navigation li {
+ display: inline-block;
+}
+
+.navigation {
+	position: fixed;
+	width: 100%;
+	top: 0px;
+	margin: auto;
+	font-family: 'Sarabun';
+	font-weight: 100;
+	opacity: 0.7;
+	background-color: black;
+}
+
+.navigation li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 15px 30px;
+	text-decoration: none;
+}
+
+.navigation li a:hover {
+	background-color: white;
+	color: rgb(70,70,70);
+}
